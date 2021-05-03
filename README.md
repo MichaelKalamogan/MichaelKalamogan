@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelKalamogan
-- 👀 I’m interested in programming and making new games
+- 👀 I’m interested in programming and learning new languages
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me at michaelkalamogan@gmail.com
 
