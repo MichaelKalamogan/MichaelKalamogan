@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelKalamogan
 - 👀 I’m interested and in the process to being a full stack developer.
-- 🌱 Here are a couple of my projects in progress and would appreadicate any comemnts/inputs anyone has.
+- 🌱 Here are a couple of my projects in progress and would appreadicate any comments/inputs anyone has.
 - 📫 You can reach me at michaelkalamogan@gmail.com
 
 <!---
